@@ -62,10 +62,10 @@ ROBOTSTXT_OBEY = True
 
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
-ITEM_PIPELINES = {
-    'maddyness.pipelines.SQLitePipeline': 300,
-    # 'maddyness.pipelines.FilterDuplicate': 100,
-}
+# ---------ITEM_PIPELINES = {
+#     -----------'maddyness.pipelines.SQLitePipeline': 300,
+#    -------------- # 'maddyness.pipelines.FilterDuplicate': 100,
+# }
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://docs.scrapy.org/en/latest/topics/autothrottle.html
@@ -88,4 +88,7 @@ ITEM_PIPELINES = {
 #HTTPCACHE_IGNORE_HTTP_CODES = []
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
 
-FEED_EXPORT_ENCODING = 'utf-8'
+# FEED_EXPORT_ENCODING = 'utf-8'
+CLOSESPIDER_ITEMCOUNT = 100
+# HTTPCACHE_ENABLED = True
+# HTTPCACHE_EXPIRATION_SECS = 3600

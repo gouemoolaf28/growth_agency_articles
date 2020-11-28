@@ -1,0 +1,82 @@
+2020-11-27 23:37:23 [scrapy] DEBUG: Crawled (200) <GET http://www.maddyness.com/robots.txt> (referer: None)
+2020-11-27 23:37:23 [scrapy] DEBUG: Crawled (200) <GET http://www.maddyness.com/?s=MaddyMoney/> (referer: None)
+2020-11-27 23:37:23 [scrapy] DEBUG: Crawled (200) <GET https://www.maddyness.com/2020/11/27/105-millions-deuros-leves-cette-semaine-pres-de-358-millions-au-total-en-novembre/> (referer: http://www.maddyness.com/?s=MaddyMoney/)
+2020-11-27 23:37:23 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/11/27/105-millions-deuros-leves-cette-semaine-pres-de-358-millions-au-total-en-novembre/>
+{'company_name': 'Medadom',
+ 'site_url': 'https://www.maddyness.com/entreprise/medadom/'}
+2020-11-27 23:37:23 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/11/27/105-millions-deuros-leves-cette-semaine-pres-de-358-millions-au-total-en-novembre/>
+{'company_name': 'AlgoTherapeutix',
+ 'site_url': 'https://www.maddyness.com/entreprise/algotherapeutix/'}
+2020-11-27 23:37:23 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/11/27/105-millions-deuros-leves-cette-semaine-pres-de-358-millions-au-total-en-novembre/>
+{'company_name': 'GrAI Matter Labs',
+ 'site_url': 'https://www.maddyness.com/entreprise/grai-matter-labs/'}
+2020-11-27 23:37:23 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/11/27/105-millions-deuros-leves-cette-semaine-pres-de-358-millions-au-total-en-novembre/>
+{'company_name': 'NeedHelp',
+ 'site_url': 'https://www.maddyness.com/entreprise/needhelp/'}
+2020-11-27 23:37:23 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/11/27/105-millions-deuros-leves-cette-semaine-pres-de-358-millions-au-total-en-novembre/>
+{'company_name': 'PowerUp',
+ 'site_url': 'https://www.maddyness.com/entreprise/powerup/'}
+2020-11-27 23:37:23 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/11/27/105-millions-deuros-leves-cette-semaine-pres-de-358-millions-au-total-en-novembre/>
+{'company_name': 'Affluences',
+ 'site_url': 'https://www.maddyness.com/entreprise/affluences/'}
+2020-11-27 23:37:23 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/11/27/105-millions-deuros-leves-cette-semaine-pres-de-358-millions-au-total-en-novembre/>
+{'company_name': 'Dans Ma Culotte',
+ 'site_url': 'https://www.maddyness.com/entreprise/dans-ma-culotte/'}
+2020-11-27 23:37:23 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/11/27/105-millions-deuros-leves-cette-semaine-pres-de-358-millions-au-total-en-novembre/>
+{'company_name': 'Bigblue',
+ 'site_url': 'https://www.maddyness.com/entreprise/bigblue/'}
+2020-11-27 23:37:23 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/11/27/105-millions-deuros-leves-cette-semaine-pres-de-358-millions-au-total-en-novembre/>
+{'company_name': 'Castor',
+ 'site_url': 'https://www.maddyness.com/entreprise/castor/'}
+2020-11-27 23:37:23 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/11/27/105-millions-deuros-leves-cette-semaine-pres-de-358-millions-au-total-en-novembre/>
+{'company_name': 'YouStock',
+ 'site_url': 'https://www.maddyness.com/entreprise/youstock/'}
+2020-11-27 23:37:23 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/11/27/105-millions-deuros-leves-cette-semaine-pres-de-358-millions-au-total-en-novembre/>
+{'company_name': 'Gleeph',
+ 'site_url': 'https://www.maddyness.com/entreprise/gleeph/'}
+2020-11-27 23:37:23 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/11/27/105-millions-deuros-leves-cette-semaine-pres-de-358-millions-au-total-en-novembre/>
+{'company_name': 'Trone',
+ 'site_url': 'https://www.maddyness.com/entreprise/trone/'}
+2020-11-27 23:37:23 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/11/27/105-millions-deuros-leves-cette-semaine-pres-de-358-millions-au-total-en-novembre/>
+{'company_name': 'Numa Health',
+ 'site_url': 'https://www.maddyness.com/entreprise/numa-health/'}
+2020-11-27 23:37:23 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/11/27/105-millions-deuros-leves-cette-semaine-pres-de-358-millions-au-total-en-novembre/>
+{'company_name': 'Once Again',
+ 'site_url': 'https://www.maddyness.com/entreprise/once-again/'}
+2020-11-27 23:37:23 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/11/27/105-millions-deuros-leves-cette-semaine-pres-de-358-millions-au-total-en-novembre/>
+{'company_name': 'LinkedNutri',
+ 'site_url': 'https://www.maddyness.com/entreprise/linkednutri/'}
+2020-11-27 23:37:23 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/11/27/105-millions-deuros-leves-cette-semaine-pres-de-358-millions-au-total-en-novembre/>
+{'company_name': 'Flint',
+ 'site_url': 'https://www.maddyness.com/entreprise/flint/'}
+2020-11-27 23:37:23 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/11/27/105-millions-deuros-leves-cette-semaine-pres-de-358-millions-au-total-en-novembre/>
+{'company_name': 'Onboard Manuals',
+ 'site_url': 'https://www.maddyness.com/entreprise/onboard-manuals/'}
+2020-11-27 23:37:23 [scrapy] DEBUG: Crawled (200) <GET https://www.maddyness.com/2020/11/19/top-velo-assistance-electrique-francais/> (referer: https://www.maddyness.com/2020/11/27/105-millions-deuros-leves-cette-semaine-pres-de-358-millions-au-total-en-novembre/)
+2020-11-27 23:37:23 [scrapy] DEBUG: Filtered duplicate request: <GET https://www.maddyness.com/2020/11/19/top-velo-assistance-electrique-francais/> - no more duplicates will be shown (see DUPEFILTER_DEBUG to show all duplicates)
+2020-11-27 23:37:23 [scrapy] INFO: Closing spider (finished)
+2020-11-27 23:37:23 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 1232,
+ 'downloader/request_count': 4,
+ 'downloader/request_method_count/GET': 4,
+ 'downloader/response_bytes': 49744,
+ 'downloader/response_count': 4,
+ 'downloader/response_status_count/200': 4,
+ 'dupefilter/filtered': 1,
+ 'elapsed_time_seconds': 0.901212,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2020, 11, 27, 23, 37, 23, 943965),
+ 'item_scraped_count': 17,
+ 'log_count/DEBUG': 22,
+ 'log_count/INFO': 7,
+ 'request_depth_max': 3,
+ 'response_received_count': 4,
+ 'robotstxt/request_count': 1,
+ 'robotstxt/response_count': 1,
+ 'robotstxt/response_status_count/200': 1,
+ 'scheduler/dequeued': 3,
+ 'scheduler/dequeued/memory': 3,
+ 'scheduler/enqueued': 3,
+ 'scheduler/enqueued/memory': 3,
+ 'start_time': datetime.datetime(2020, 11, 27, 23, 37, 23, 42753)}
+2020-11-27 23:37:23 [scrapy] INFO: Spider closed (finished)

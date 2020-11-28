@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="{{url_for('static', filename='css/bootstrap.min.css')}}"
+    />
+    <title>Article</title>
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light mb-3">
+      <a class="navbar-brand" href="#">Growth Agency</a>
+      <button
+        class="navbar-toggler"
+        type="button"
+        data-toggle="collapse"
+        data-target="#navbarNav"
+        aria-controls="navbarNav"
+        aria-expanded="false"
+        aria-label="Toggle navigation"
+      >
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav">
+          <li class="nav-item active">
+            <a class="nav-link" href="/"
+              >Home <span class="sr-only">(current)</span></a
+            >
+          </li>
+        </ul>
+      </div>
+    </nav>
+    <div class="container" style="text-align: center">
+      <div class="jumbotron">
+        <h1 class="display-4">Some Article Infos</h1>
+        <p class="lead">
+          All the informations below are scraped using scrapy and scrapyRT
+        </p>
+        <hr class="my-4" />
+        <p>for further information please click the button below</p>
+        <a
+          class="btn btn-primary btn-lg"
+          href="https://scrapy.org"
+          role="button"
+          >Learn more</a
+        >
+      </div>
+    </div>
+
+    <div class="container">
+      {% for article in articles %} {% if loop.index0 % 3 == 0 %}
+      <div class="row justify-content-center mb-4 mt-4">
+        {% endif %}
+        <div class="card mr-4" style="width: 18rem; text-align: center">
+          <div class="card-body">
+            <h5 class="card-title">{{article.get('company_name')}}</h5>
+            <a
+              href="{{article.get('site_url')}}"
+              target="_blank"
+              class="btn btn-primary"
+              >Get more info on the company</a
+            >
+          </div>
+        </div>
+        {% if loop.index0 % 3 == 2 %}
+      </div>
+      {% endif %} {% endfor %}
+    </div>
+  </body>
+</html>

@@ -1,0 +1,712 @@
+2020-11-28 00:18:52 [scrapy] DEBUG: Crawled (200) <GET http://www.maddyness.com/robots.txt> (referer: None)
+2020-11-28 00:18:52 [scrapy] DEBUG: Crawled (200) <GET http://www.maddyness.com/?s=MaddyMoney/> (referer: None)
+2020-11-28 00:18:52 [scrapy] DEBUG: Filtered duplicate request: <GET https://www.maddyness.com/2020/11/27/105-millions-deuros-leves-cette-semaine-pres-de-358-millions-au-total-en-novembre/> - no more duplicates will be shown (see DUPEFILTER_DEBUG to show all duplicates)
+2020-11-28 00:18:53 [scrapy] DEBUG: Crawled (200) <GET https://www.maddyness.com/2020/11/27/105-millions-deuros-leves-cette-semaine-pres-de-358-millions-au-total-en-novembre/> (referer: http://www.maddyness.com/?s=MaddyMoney/)
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/11/27/105-millions-deuros-leves-cette-semaine-pres-de-358-millions-au-total-en-novembre/>
+{'company_name': 'Medadom',
+ 'site_url': 'https://www.maddyness.com/entreprise/medadom/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/11/27/105-millions-deuros-leves-cette-semaine-pres-de-358-millions-au-total-en-novembre/>
+{'company_name': 'AlgoTherapeutix',
+ 'site_url': 'https://www.maddyness.com/entreprise/algotherapeutix/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/11/27/105-millions-deuros-leves-cette-semaine-pres-de-358-millions-au-total-en-novembre/>
+{'company_name': 'GrAI Matter Labs',
+ 'site_url': 'https://www.maddyness.com/entreprise/grai-matter-labs/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/11/27/105-millions-deuros-leves-cette-semaine-pres-de-358-millions-au-total-en-novembre/>
+{'company_name': 'NeedHelp',
+ 'site_url': 'https://www.maddyness.com/entreprise/needhelp/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/11/27/105-millions-deuros-leves-cette-semaine-pres-de-358-millions-au-total-en-novembre/>
+{'company_name': 'PowerUp',
+ 'site_url': 'https://www.maddyness.com/entreprise/powerup/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/11/27/105-millions-deuros-leves-cette-semaine-pres-de-358-millions-au-total-en-novembre/>
+{'company_name': 'Affluences',
+ 'site_url': 'https://www.maddyness.com/entreprise/affluences/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/11/27/105-millions-deuros-leves-cette-semaine-pres-de-358-millions-au-total-en-novembre/>
+{'company_name': 'Dans Ma Culotte',
+ 'site_url': 'https://www.maddyness.com/entreprise/dans-ma-culotte/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/11/27/105-millions-deuros-leves-cette-semaine-pres-de-358-millions-au-total-en-novembre/>
+{'company_name': 'Bigblue',
+ 'site_url': 'https://www.maddyness.com/entreprise/bigblue/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/11/27/105-millions-deuros-leves-cette-semaine-pres-de-358-millions-au-total-en-novembre/>
+{'company_name': 'Castor',
+ 'site_url': 'https://www.maddyness.com/entreprise/castor/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/11/27/105-millions-deuros-leves-cette-semaine-pres-de-358-millions-au-total-en-novembre/>
+{'company_name': 'YouStock',
+ 'site_url': 'https://www.maddyness.com/entreprise/youstock/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/11/27/105-millions-deuros-leves-cette-semaine-pres-de-358-millions-au-total-en-novembre/>
+{'company_name': 'Gleeph',
+ 'site_url': 'https://www.maddyness.com/entreprise/gleeph/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/11/27/105-millions-deuros-leves-cette-semaine-pres-de-358-millions-au-total-en-novembre/>
+{'company_name': 'Trone',
+ 'site_url': 'https://www.maddyness.com/entreprise/trone/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/11/27/105-millions-deuros-leves-cette-semaine-pres-de-358-millions-au-total-en-novembre/>
+{'company_name': 'Numa Health',
+ 'site_url': 'https://www.maddyness.com/entreprise/numa-health/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/11/27/105-millions-deuros-leves-cette-semaine-pres-de-358-millions-au-total-en-novembre/>
+{'company_name': 'Once Again',
+ 'site_url': 'https://www.maddyness.com/entreprise/once-again/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/11/27/105-millions-deuros-leves-cette-semaine-pres-de-358-millions-au-total-en-novembre/>
+{'company_name': 'LinkedNutri',
+ 'site_url': 'https://www.maddyness.com/entreprise/linkednutri/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/11/27/105-millions-deuros-leves-cette-semaine-pres-de-358-millions-au-total-en-novembre/>
+{'company_name': 'Flint',
+ 'site_url': 'https://www.maddyness.com/entreprise/flint/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/11/27/105-millions-deuros-leves-cette-semaine-pres-de-358-millions-au-total-en-novembre/>
+{'company_name': 'Onboard Manuals',
+ 'site_url': 'https://www.maddyness.com/entreprise/onboard-manuals/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Crawled (200) <GET https://www.maddyness.com/2020/07/24/maddymoney-juillet-2020-ab-tasty/> (referer: http://www.maddyness.com/?s=MaddyMoney/)
+2020-11-28 00:18:53 [scrapy] DEBUG: Crawled (200) <GET https://www.maddyness.com/2020/09/25/325-millions-deuros-leves-cette-semaine-portee-par-le-tour-de-force-de-mirakl/> (referer: http://www.maddyness.com/?s=MaddyMoney/)
+2020-11-28 00:18:53 [scrapy] DEBUG: Crawled (200) <GET https://www.maddyness.com/2020/07/31/maddymoney-juillet-282-millions/> (referer: http://www.maddyness.com/?s=MaddyMoney/)
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/07/24/maddymoney-juillet-2020-ab-tasty/>
+{'company_name': 'AB Tasty',
+ 'site_url': 'https://www.maddyness.com/entreprise/ab-tasty/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/07/24/maddymoney-juillet-2020-ab-tasty/>
+{'company_name': 'iObeya',
+ 'site_url': 'https://www.maddyness.com/entreprise/iobeya/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/07/24/maddymoney-juillet-2020-ab-tasty/>
+{'company_name': 'Planity',
+ 'site_url': 'https://www.maddyness.com/entreprise/planity/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/07/24/maddymoney-juillet-2020-ab-tasty/>
+{'company_name': 'Apix Analytics',
+ 'site_url': 'https://www.maddyness.com/entreprise/apix-analytics/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/07/24/maddymoney-juillet-2020-ab-tasty/>
+{'company_name': 'BeFC',
+ 'site_url': 'https://www.maddyness.com/entreprise/bioenzymatic-fuel-cells/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/07/24/maddymoney-juillet-2020-ab-tasty/>
+{'company_name': 'MagIA Diagnostics',
+ 'site_url': 'https://www.maddyness.com/entreprise/magia-diagnostics/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/07/24/maddymoney-juillet-2020-ab-tasty/>
+{'company_name': 'Joyeuse',
+ 'site_url': 'https://www.maddyness.com/entreprise/joyeuse/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/07/24/maddymoney-juillet-2020-ab-tasty/>
+{'company_name': 'Biloba',
+ 'site_url': 'https://www.maddyness.com/entreprise/biloba/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/25/325-millions-deuros-leves-cette-semaine-portee-par-le-tour-de-force-de-mirakl/>
+{'company_name': 'Mirakl',
+ 'site_url': 'https://www.maddyness.com/entreprise/mirakl/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/07/24/maddymoney-juillet-2020-ab-tasty/>
+{'company_name': 'UrbanHub',
+ 'site_url': 'https://www.maddyness.com/entreprise/urbanhub/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/07/24/maddymoney-juillet-2020-ab-tasty/>
+{'company_name': 'Skilder',
+ 'site_url': 'https://www.maddyness.com/entreprise/skilder/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/25/325-millions-deuros-leves-cette-semaine-portee-par-le-tour-de-force-de-mirakl/>
+{'company_name': 'Comet Meetings',
+ 'site_url': 'https://www.maddyness.com/entreprise/comet-meetings/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/25/325-millions-deuros-leves-cette-semaine-portee-par-le-tour-de-force-de-mirakl/>
+{'company_name': 'Gleamer',
+ 'site_url': 'https://www.maddyness.com/entreprise/gleamer/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/25/325-millions-deuros-leves-cette-semaine-portee-par-le-tour-de-force-de-mirakl/>
+{'company_name': 'Cyclofix',
+ 'site_url': 'https://www.maddyness.com/entreprise/cyclofix/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/25/325-millions-deuros-leves-cette-semaine-portee-par-le-tour-de-force-de-mirakl/>
+{'company_name': 'Welcome at Work',
+ 'site_url': 'https://www.maddyness.com/entreprise/welcome-at-work/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/25/325-millions-deuros-leves-cette-semaine-portee-par-le-tour-de-force-de-mirakl/>
+{'company_name': 'Alogia',
+ 'site_url': 'https://www.maddyness.com/entreprise/alogia/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/25/325-millions-deuros-leves-cette-semaine-portee-par-le-tour-de-force-de-mirakl/>
+{'company_name': 'Kard',
+ 'site_url': 'https://www.maddyness.com/entreprise/kard/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/25/325-millions-deuros-leves-cette-semaine-portee-par-le-tour-de-force-de-mirakl/>
+{'company_name': 'ParaSwap',
+ 'site_url': 'https://www.maddyness.com/entreprise/paraswap/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/25/325-millions-deuros-leves-cette-semaine-portee-par-le-tour-de-force-de-mirakl/>
+{'company_name': 'Kaliz',
+ 'site_url': 'https://www.maddyness.com/entreprise/kaliz/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/25/325-millions-deuros-leves-cette-semaine-portee-par-le-tour-de-force-de-mirakl/>
+{'company_name': 'Leocare',
+ 'site_url': 'https://www.maddyness.com/entreprise/leocare/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/25/325-millions-deuros-leves-cette-semaine-portee-par-le-tour-de-force-de-mirakl/>
+{'company_name': 'Limatech',
+ 'site_url': 'https://www.maddyness.com/entreprise/limatech/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/25/325-millions-deuros-leves-cette-semaine-portee-par-le-tour-de-force-de-mirakl/>
+{'company_name': 'Maria Schools',
+ 'site_url': 'https://www.maddyness.com/entreprise/maria-schools/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/25/325-millions-deuros-leves-cette-semaine-portee-par-le-tour-de-force-de-mirakl/>
+{'company_name': 'Squiz',
+ 'site_url': 'https://www.maddyness.com/entreprise/ma-bonne-etoile/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/25/325-millions-deuros-leves-cette-semaine-portee-par-le-tour-de-force-de-mirakl/>
+{'company_name': 'Arskan',
+ 'site_url': 'https://www.maddyness.com/entreprise/arskan/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/25/325-millions-deuros-leves-cette-semaine-portee-par-le-tour-de-force-de-mirakl/>
+{'company_name': 'Apimo',
+ 'site_url': 'https://www.maddyness.com/entreprise/apimo/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/25/325-millions-deuros-leves-cette-semaine-portee-par-le-tour-de-force-de-mirakl/>
+{'company_name': 'Swallis Medical',
+ 'site_url': 'https://www.maddyness.com/entreprise/swallis-medical/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/25/325-millions-deuros-leves-cette-semaine-portee-par-le-tour-de-force-de-mirakl/>
+{'company_name': 'Escape Technologies',
+ 'site_url': 'https://www.maddyness.com/entreprise/escape-technologies/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/07/31/maddymoney-juillet-282-millions/>
+{'company_name': 'Quandela',
+ 'site_url': 'https://www.maddyness.com/entreprise/quandela/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/07/31/maddymoney-juillet-282-millions/>
+{'company_name': 'La Devanture',
+ 'site_url': 'https://www.maddyness.com/entreprise/la-devanture/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/07/31/maddymoney-juillet-282-millions/>
+{'company_name': 'Magma Technology',
+ 'site_url': 'https://www.maddyness.com/entreprise/magma-technology/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/07/31/maddymoney-juillet-282-millions/>
+{'company_name': 'Klassroom',
+ 'site_url': 'https://www.maddyness.com/entreprise/klassroom/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/07/31/maddymoney-juillet-282-millions/>
+{'company_name': 'Clim8',
+ 'site_url': 'https://www.maddyness.com/entreprise/clim8/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/07/31/maddymoney-juillet-282-millions/>
+{'company_name': 'Ieva',
+ 'site_url': 'https://www.maddyness.com/entreprise/ieva/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/07/31/maddymoney-juillet-282-millions/>
+{'company_name': 'DNA Script',
+ 'site_url': 'https://www.maddyness.com/entreprise/dna-script/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/07/31/maddymoney-juillet-282-millions/>
+{'company_name': 'Withings',
+ 'site_url': 'https://www.maddyness.com/entreprise/withings/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/25/325-millions-deuros-leves-cette-semaine-portee-par-le-tour-de-force-de-mirakl/>
+{'company_name': 'Yelda',
+ 'site_url': 'https://www.maddyness.com/entreprise/yelda/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/25/325-millions-deuros-leves-cette-semaine-portee-par-le-tour-de-force-de-mirakl/>
+{'company_name': 'PopMoms',
+ 'site_url': 'https://www.maddyness.com/entreprise/popmoms/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/25/325-millions-deuros-leves-cette-semaine-portee-par-le-tour-de-force-de-mirakl/>
+{'company_name': 'Wavlive',
+ 'site_url': 'https://www.maddyness.com/entreprise/wavlive/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/25/325-millions-deuros-leves-cette-semaine-portee-par-le-tour-de-force-de-mirakl/>
+{'company_name': 'RunMotion Coach',
+ 'site_url': 'https://www.maddyness.com/entreprise/runmotion-coach/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/25/325-millions-deuros-leves-cette-semaine-portee-par-le-tour-de-force-de-mirakl/>
+{'company_name': 'Data Soluce',
+ 'site_url': 'https://www.maddyness.com/entreprise/data-soluce/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Crawled (200) <GET https://www.maddyness.com/2020/09/01/maddymoney-10-millions-aout-voodoo/> (referer: http://www.maddyness.com/?s=MaddyMoney/)
+2020-11-28 00:18:53 [scrapy] DEBUG: Crawled (200) <GET https://www.maddyness.com/2020/09/18/62-millions-maddymoney-18-septembre/> (referer: http://www.maddyness.com/?s=MaddyMoney/)
+2020-11-28 00:18:53 [scrapy] DEBUG: Crawled (200) <GET https://www.maddyness.com/2020/09/04/maddymoney-4-septembre-2020/> (referer: http://www.maddyness.com/?s=MaddyMoney/)
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/01/maddymoney-10-millions-aout-voodoo/>
+{'company_name': 'Bellevilles',
+ 'site_url': 'https://www.maddyness.com/entreprise/bellevilles/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/01/maddymoney-10-millions-aout-voodoo/>
+{'company_name': 'Baloon',
+ 'site_url': 'https://www.maddyness.com/entreprise/baloon/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/01/maddymoney-10-millions-aout-voodoo/>
+{'company_name': 'BetOnYou',
+ 'site_url': 'https://www.maddyness.com/entreprise/betonyou/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/01/maddymoney-10-millions-aout-voodoo/>
+{'company_name': 'Andjaro',
+ 'site_url': 'https://www.maddyness.com/entreprise/andjaro/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/01/maddymoney-10-millions-aout-voodoo/>
+{'company_name': 'Ma Bonne Étoile',
+ 'site_url': 'https://www.maddyness.com/entreprise/ma-bonne-etoile/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/01/maddymoney-10-millions-aout-voodoo/>
+{'company_name': 'SideROS',
+ 'site_url': 'https://www.maddyness.com/entreprise/sideros/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/01/maddymoney-10-millions-aout-voodoo/>
+{'company_name': 'NewDeal',
+ 'site_url': 'https://www.maddyness.com/entreprise/new-deal/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/01/maddymoney-10-millions-aout-voodoo/>
+{'company_name': 'Forssea Robotics',
+ 'site_url': 'https://www.maddyness.com/entreprise/forssea-robotics/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/01/maddymoney-10-millions-aout-voodoo/>
+{'company_name': 'Oppi',
+ 'site_url': 'https://www.maddyness.com/entreprise/oppi/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/01/maddymoney-10-millions-aout-voodoo/>
+{'company_name': 'Piquoti',
+ 'site_url': 'https://www.maddyness.com/entreprise/piquoti/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/01/maddymoney-10-millions-aout-voodoo/>
+{'company_name': 'Voodoo',
+ 'site_url': 'https://www.maddyness.com/entreprise/voodoo/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/01/maddymoney-10-millions-aout-voodoo/>
+{'company_name': 'Cabaïa',
+ 'site_url': 'https://www.maddyness.com/entreprise/cabaia/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/18/62-millions-maddymoney-18-septembre/>
+{'company_name': 'Antaios',
+ 'site_url': 'https://www.maddyness.com/entreprise/antaios/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/18/62-millions-maddymoney-18-septembre/>
+{'company_name': 'Yooji',
+ 'site_url': 'https://www.maddyness.com/entreprise/yooji/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/18/62-millions-maddymoney-18-septembre/>
+{'company_name': 'ImCheck Therapeutics',
+ 'site_url': 'https://www.maddyness.com/entreprise/imcheck-therapeutics/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/18/62-millions-maddymoney-18-septembre/>
+{'company_name': 'Swan',
+ 'site_url': 'https://www.maddyness.com/entreprise/swan/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/18/62-millions-maddymoney-18-septembre/>
+{'company_name': 'Supermood',
+ 'site_url': 'https://www.maddyness.com/entreprise/supermood/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/18/62-millions-maddymoney-18-septembre/>
+{'company_name': 'Biodol Therapeutics',
+ 'site_url': 'https://www.maddyness.com/entreprise/biodol-therapeutics/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/18/62-millions-maddymoney-18-septembre/>
+{'company_name': 'Domalys',
+ 'site_url': 'https://www.maddyness.com/entreprise/domalys/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/18/62-millions-maddymoney-18-septembre/>
+{'company_name': 'Per Angusta',
+ 'site_url': 'https://www.maddyness.com/entreprise/per-angusta/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/18/62-millions-maddymoney-18-septembre/>
+{'company_name': 'PowerZ',
+ 'site_url': 'https://www.maddyness.com/entreprise/powerz/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/18/62-millions-maddymoney-18-septembre/>
+{'company_name': 'MagicPallet',
+ 'site_url': 'https://www.maddyness.com/entreprise/magicpallet/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/18/62-millions-maddymoney-18-septembre/>
+{'company_name': 'La Bouche Rouge',
+ 'site_url': 'https://www.maddyness.com/entreprise/la-bouche-rouge/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/18/62-millions-maddymoney-18-septembre/>
+{'company_name': 'Alenvi',
+ 'site_url': 'https://www.maddyness.com/entreprise/alenvi/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/18/62-millions-maddymoney-18-septembre/>
+{'company_name': 'Odit-e',
+ 'site_url': 'https://www.maddyness.com/entreprise/odit-e/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/18/62-millions-maddymoney-18-septembre/>
+{'company_name': 'Fintel',
+ 'site_url': 'https://www.maddyness.com/entreprise/fintel/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/18/62-millions-maddymoney-18-septembre/>
+{'company_name': 'Yumain',
+ 'site_url': 'https://www.maddyness.com/entreprise/yumain/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/18/62-millions-maddymoney-18-septembre/>
+{'company_name': 'TwicPics',
+ 'site_url': 'https://www.maddyness.com/entreprise/twicpics/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/18/62-millions-maddymoney-18-septembre/>
+{'company_name': 'Patrivia',
+ 'site_url': 'https://www.maddyness.com/entreprise/patrivia/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/18/62-millions-maddymoney-18-septembre/>
+{'company_name': 'The Artist Academy',
+ 'site_url': 'https://www.maddyness.com/entreprise/the-artist-academy/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/18/62-millions-maddymoney-18-septembre/>
+{'company_name': 'Emulseo',
+ 'site_url': 'https://www.maddyness.com/entreprise/emulseo/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/04/maddymoney-4-septembre-2020/>
+{'company_name': 'Medaviz',
+ 'site_url': 'https://www.maddyness.com/entreprise/medaviz/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/04/maddymoney-4-septembre-2020/>
+{'company_name': 'Badakan',
+ 'site_url': 'https://www.maddyness.com/entreprise/badakan/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/04/maddymoney-4-septembre-2020/>
+{'company_name': 'GarantMe',
+ 'site_url': 'https://www.maddyness.com/entreprise/garantme/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/04/maddymoney-4-septembre-2020/>
+{'company_name': 'Nutri&Co',
+ 'site_url': 'https://www.maddyness.com/entreprise/nutrico/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/04/maddymoney-4-septembre-2020/>
+{'company_name': 'Share(d)',
+ 'site_url': 'https://www.maddyness.com/entreprise/shared/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/04/maddymoney-4-septembre-2020/>
+{'company_name': 'Cuure',
+ 'site_url': 'https://www.maddyness.com/entreprise/cuure/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/04/maddymoney-4-septembre-2020/>
+{'company_name': 'Smartpush',
+ 'site_url': 'https://www.maddyness.com/entreprise/smartpush/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/04/maddymoney-4-septembre-2020/>
+{'company_name': 'Studio Ker',
+ 'site_url': 'https://www.maddyness.com/entreprise/studio-ker/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/04/maddymoney-4-septembre-2020/>
+{'company_name': 'Modjo',
+ 'site_url': 'https://www.maddyness.com/entreprise/modjo/'}
+2020-11-28 00:18:53 [scrapy] DEBUG: Crawled (200) <GET https://www.maddyness.com/2020/10/02/92-millions-deuros-leves-cette-semaine-plus-de-566-millions-au-mois-de-septembre/> (referer: http://www.maddyness.com/?s=MaddyMoney/)
+2020-11-28 00:18:53 [scrapy] DEBUG: Crawled (200) <GET https://www.maddyness.com/2020/09/11/56-millions-deuros-leves-cette-semaine-comme-un-fremissement-de-reprise/> (referer: http://www.maddyness.com/?s=MaddyMoney/)
+2020-11-28 00:18:54 [scrapy] DEBUG: Crawled (200) <GET https://www.maddyness.com/2020/10/16/avec-57-millions-deuros-leves-cette-semaine-retour-a-la-normale/> (referer: http://www.maddyness.com/?s=MaddyMoney/)
+2020-11-28 00:18:54 [scrapy] DEBUG: Crawled (200) <GET https://www.maddyness.com/2020/10/09/grace-a-ynsect-une-nouvelle-semaine-avec-plus-de-300-millions-deuros-leves/> (referer: http://www.maddyness.com/?s=MaddyMoney/)
+2020-11-28 00:18:54 [scrapy] DEBUG: Crawled (200) <GET https://www.maddyness.com/2020/11/27/les-appels-a-candidatures-a-ne-pas-manquer-en-decembre/> (referer: https://www.maddyness.com/2020/11/27/105-millions-deuros-leves-cette-semaine-pres-de-358-millions-au-total-en-novembre/)
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/10/02/92-millions-deuros-leves-cette-semaine-plus-de-566-millions-au-mois-de-septembre/>
+{'company_name': 'Exotec',
+ 'site_url': 'https://www.maddyness.com/entreprise/exotec-solutions/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/10/02/92-millions-deuros-leves-cette-semaine-plus-de-566-millions-au-mois-de-septembre/>
+{'company_name': 'PandaScore',
+ 'site_url': 'https://www.maddyness.com/entreprise/pandascore/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/10/02/92-millions-deuros-leves-cette-semaine-plus-de-566-millions-au-mois-de-septembre/>
+{'company_name': 'Totem',
+ 'site_url': 'https://www.maddyness.com/entreprise/totem/'}
+2020-11-28 00:18:54 [scrapy] INFO: Closing spider (closespider_itemcount)
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/10/02/92-millions-deuros-leves-cette-semaine-plus-de-566-millions-au-mois-de-septembre/>
+{'company_name': 'WeeM',
+ 'site_url': 'https://www.maddyness.com/entreprise/weem/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/10/02/92-millions-deuros-leves-cette-semaine-plus-de-566-millions-au-mois-de-septembre/>
+{'company_name': 'Syroco',
+ 'site_url': 'https://www.maddyness.com/entreprise/syroco/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/11/56-millions-deuros-leves-cette-semaine-comme-un-fremissement-de-reprise/>
+{'company_name': 'Descartes Underwriting',
+ 'site_url': 'https://www.maddyness.com/entreprise/descartes-underwriting/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/11/56-millions-deuros-leves-cette-semaine-comme-un-fremissement-de-reprise/>
+{'company_name': 'Joone',
+ 'site_url': 'https://www.maddyness.com/entreprise/joone/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/11/56-millions-deuros-leves-cette-semaine-comme-un-fremissement-de-reprise/>
+{'company_name': 'Yomoni',
+ 'site_url': 'https://www.maddyness.com/entreprise/yomoni/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/11/56-millions-deuros-leves-cette-semaine-comme-un-fremissement-de-reprise/>
+{'company_name': 'SpaceFill',
+ 'site_url': 'https://www.maddyness.com/entreprise/spacefill/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/11/56-millions-deuros-leves-cette-semaine-comme-un-fremissement-de-reprise/>
+{'company_name': 'OSO-AI',
+ 'site_url': 'https://www.maddyness.com/entreprise/oso-ai/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/11/56-millions-deuros-leves-cette-semaine-comme-un-fremissement-de-reprise/>
+{'company_name': 'ReciTAL',
+ 'site_url': 'https://www.maddyness.com/entreprise/recital/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/11/56-millions-deuros-leves-cette-semaine-comme-un-fremissement-de-reprise/>
+{'company_name': 'Pricing Hub',
+ 'site_url': 'https://www.maddyness.com/entreprise/pricing-hub/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/10/02/92-millions-deuros-leves-cette-semaine-plus-de-566-millions-au-mois-de-septembre/>
+{'company_name': 'Colette',
+ 'site_url': 'https://www.maddyness.com/entreprise/colette/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/10/02/92-millions-deuros-leves-cette-semaine-plus-de-566-millions-au-mois-de-septembre/>
+{'company_name': 'Whispeak',
+ 'site_url': 'https://www.maddyness.com/entreprise/whispeak/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/10/02/92-millions-deuros-leves-cette-semaine-plus-de-566-millions-au-mois-de-septembre/>
+{'company_name': 'Ekestrian',
+ 'site_url': 'https://www.maddyness.com/entreprise/ekestrian/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/10/02/92-millions-deuros-leves-cette-semaine-plus-de-566-millions-au-mois-de-septembre/>
+{'company_name': 'Hollo',
+ 'site_url': 'https://www.maddyness.com/entreprise/hollo/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/11/56-millions-deuros-leves-cette-semaine-comme-un-fremissement-de-reprise/>
+{'company_name': 'Zei', 'site_url': 'https://www.maddyness.com/entreprise/zei/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/11/56-millions-deuros-leves-cette-semaine-comme-un-fremissement-de-reprise/>
+{'company_name': 'SportRizer',
+ 'site_url': 'https://www.maddyness.com/entreprise/sportrizer/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/11/56-millions-deuros-leves-cette-semaine-comme-un-fremissement-de-reprise/>
+{'company_name': 'BioInspir',
+ 'site_url': 'https://www.maddyness.com/entreprise/bioinspir/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/11/56-millions-deuros-leves-cette-semaine-comme-un-fremissement-de-reprise/>
+{'company_name': 'The Good Spoon',
+ 'site_url': 'https://www.maddyness.com/entreprise/the-good-spoon/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/11/56-millions-deuros-leves-cette-semaine-comme-un-fremissement-de-reprise/>
+{'company_name': 'Rocambole',
+ 'site_url': 'https://www.maddyness.com/entreprise/rocambole/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/11/56-millions-deuros-leves-cette-semaine-comme-un-fremissement-de-reprise/>
+{'company_name': 'Heypster',
+ 'site_url': 'https://www.maddyness.com/entreprise/heypster/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/09/11/56-millions-deuros-leves-cette-semaine-comme-un-fremissement-de-reprise/>
+{'company_name': 'Wintics',
+ 'site_url': 'https://www.maddyness.com/entreprise/wintics/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Crawled (200) <GET https://www.maddyness.com/2020/11/27/innovation-et-grands-groupes-la-solidarite-continue/> (referer: https://www.maddyness.com/2020/11/27/105-millions-deuros-leves-cette-semaine-pres-de-358-millions-au-total-en-novembre/)
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/10/16/avec-57-millions-deuros-leves-cette-semaine-retour-a-la-normale/>
+{'company_name': 'Spendesk',
+ 'site_url': 'https://www.maddyness.com/entreprise/spendesk/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/10/16/avec-57-millions-deuros-leves-cette-semaine-retour-a-la-normale/>
+{'company_name': 'Auto-école.net',
+ 'site_url': 'https://www.maddyness.com/entreprise/auto-ecole-net/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/10/16/avec-57-millions-deuros-leves-cette-semaine-retour-a-la-normale/>
+{'company_name': 'Murfy',
+ 'site_url': 'https://www.maddyness.com/entreprise/murfy/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/10/16/avec-57-millions-deuros-leves-cette-semaine-retour-a-la-normale/>
+{'company_name': 'Nous épiceries anti-gaspi',
+ 'site_url': 'https://www.maddyness.com/entreprise/nous-epiceries-anti-gaspi/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/10/16/avec-57-millions-deuros-leves-cette-semaine-retour-a-la-normale/>
+{'company_name': 'Comptoir de Campagne',
+ 'site_url': 'https://www.maddyness.com/entreprise/comptoir-de-campagne/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/10/16/avec-57-millions-deuros-leves-cette-semaine-retour-a-la-normale/>
+{'company_name': 'Spectral TMS',
+ 'site_url': 'https://www.maddyness.com/entreprise/spectral-tms/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/10/16/avec-57-millions-deuros-leves-cette-semaine-retour-a-la-normale/>
+{'company_name': 'CrowdSec',
+ 'site_url': 'https://www.maddyness.com/entreprise/crowdsec/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/10/16/avec-57-millions-deuros-leves-cette-semaine-retour-a-la-normale/>
+{'company_name': 'Koyeb',
+ 'site_url': 'https://www.maddyness.com/entreprise/koyeb/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/10/16/avec-57-millions-deuros-leves-cette-semaine-retour-a-la-normale/>
+{'company_name': 'Algolesko',
+ 'site_url': 'https://www.maddyness.com/entreprise/algolesko/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/10/16/avec-57-millions-deuros-leves-cette-semaine-retour-a-la-normale/>
+{'company_name': 'Datexim',
+ 'site_url': 'https://www.maddyness.com/entreprise/datexim/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/10/16/avec-57-millions-deuros-leves-cette-semaine-retour-a-la-normale/>
+{'company_name': 'Keeze',
+ 'site_url': 'https://www.maddyness.com/entreprise/keeze/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/10/16/avec-57-millions-deuros-leves-cette-semaine-retour-a-la-normale/>
+{'company_name': 'E for IA',
+ 'site_url': 'https://www.maddyness.com/entreprise/e-for-ia/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/10/16/avec-57-millions-deuros-leves-cette-semaine-retour-a-la-normale/>
+{'company_name': 'Ubiplug',
+ 'site_url': 'https://www.maddyness.com/entreprise/ubiplug/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/10/16/avec-57-millions-deuros-leves-cette-semaine-retour-a-la-normale/>
+{'company_name': 'OverSOC',
+ 'site_url': 'https://www.maddyness.com/entreprise/oversoc/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/10/16/avec-57-millions-deuros-leves-cette-semaine-retour-a-la-normale/>
+{'company_name': 'Hummink',
+ 'site_url': 'https://www.maddyness.com/entreprise/hummink/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/10/16/avec-57-millions-deuros-leves-cette-semaine-retour-a-la-normale/>
+{'company_name': 'Tomojo',
+ 'site_url': 'https://www.maddyness.com/entreprise/tomojo/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/10/16/avec-57-millions-deuros-leves-cette-semaine-retour-a-la-normale/>
+{'company_name': 'Lici',
+ 'site_url': 'https://www.maddyness.com/entreprise/lici/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Crawled (200) <GET https://www.maddyness.com/2020/10/23/maddymoney-77-millions-deuros-leves-cette-semaine/> (referer: http://www.maddyness.com/?s=MaddyMoney/)
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/10/09/grace-a-ynsect-une-nouvelle-semaine-avec-plus-de-300-millions-deuros-leves/>
+{'company_name': 'Ÿnsect',
+ 'site_url': 'https://www.maddyness.com/entreprise/ynsect/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/10/09/grace-a-ynsect-une-nouvelle-semaine-avec-plus-de-300-millions-deuros-leves/>
+{'company_name': 'Aledia',
+ 'site_url': 'https://www.maddyness.com/entreprise/aledia/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/10/09/grace-a-ynsect-une-nouvelle-semaine-avec-plus-de-300-millions-deuros-leves/>
+{'company_name': '+Simple',
+ 'site_url': 'https://www.maddyness.com/entreprise/simple/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/10/09/grace-a-ynsect-une-nouvelle-semaine-avec-plus-de-300-millions-deuros-leves/>
+{'company_name': 'Joko',
+ 'site_url': 'https://www.maddyness.com/entreprise/joko/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/10/09/grace-a-ynsect-une-nouvelle-semaine-avec-plus-de-300-millions-deuros-leves/>
+{'company_name': 'Kurmi Software',
+ 'site_url': 'https://www.maddyness.com/entreprise/kurmi-software/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/10/09/grace-a-ynsect-une-nouvelle-semaine-avec-plus-de-300-millions-deuros-leves/>
+{'company_name': 'Japhy',
+ 'site_url': 'https://www.maddyness.com/entreprise/japhy/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/10/09/grace-a-ynsect-une-nouvelle-semaine-avec-plus-de-300-millions-deuros-leves/>
+{'company_name': 'BSPK',
+ 'site_url': 'https://www.maddyness.com/entreprise/bspk/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/10/09/grace-a-ynsect-une-nouvelle-semaine-avec-plus-de-300-millions-deuros-leves/>
+{'company_name': 'Les Affranchis(e)',
+ 'site_url': 'https://www.maddyness.com/entreprise/les-affranchise/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/10/09/grace-a-ynsect-une-nouvelle-semaine-avec-plus-de-300-millions-deuros-leves/>
+{'company_name': "Materr'Up",
+ 'site_url': 'https://www.maddyness.com/entreprise/materrup/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/10/09/grace-a-ynsect-une-nouvelle-semaine-avec-plus-de-300-millions-deuros-leves/>
+{'company_name': 'LegalVision Pro',
+ 'site_url': 'https://www.maddyness.com/entreprise/legalvision-pro/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/10/09/grace-a-ynsect-une-nouvelle-semaine-avec-plus-de-300-millions-deuros-leves/>
+{'company_name': 'Fulllife',
+ 'site_url': 'https://www.maddyness.com/entreprise/fulllife/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/10/09/grace-a-ynsect-une-nouvelle-semaine-avec-plus-de-300-millions-deuros-leves/>
+{'company_name': 'Néosylva',
+ 'site_url': 'https://www.maddyness.com/entreprise/neosylva/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/10/09/grace-a-ynsect-une-nouvelle-semaine-avec-plus-de-300-millions-deuros-leves/>
+{'company_name': 'Nextflow Software',
+ 'site_url': 'https://www.maddyness.com/entreprise/nextflow-software/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/10/09/grace-a-ynsect-une-nouvelle-semaine-avec-plus-de-300-millions-deuros-leves/>
+{'company_name': 'Mercateam',
+ 'site_url': 'https://www.maddyness.com/entreprise/mercateam/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/10/09/grace-a-ynsect-une-nouvelle-semaine-avec-plus-de-300-millions-deuros-leves/>
+{'company_name': 'SpaceSense',
+ 'site_url': 'https://www.maddyness.com/entreprise/spacesense/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/10/09/grace-a-ynsect-une-nouvelle-semaine-avec-plus-de-300-millions-deuros-leves/>
+{'company_name': 'Deft Software',
+ 'site_url': 'https://www.maddyness.com/entreprise/deft-software/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/10/09/grace-a-ynsect-une-nouvelle-semaine-avec-plus-de-300-millions-deuros-leves/>
+{'company_name': '4·5·6 Skin',
+ 'site_url': 'https://www.maddyness.com/entreprise/4-5-6-skin/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/10/09/grace-a-ynsect-une-nouvelle-semaine-avec-plus-de-300-millions-deuros-leves/>
+{'company_name': 'Retail Shake',
+ 'site_url': 'https://www.maddyness.com/entreprise/retail-shake/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/10/09/grace-a-ynsect-une-nouvelle-semaine-avec-plus-de-300-millions-deuros-leves/>
+{'company_name': 'Lya Protect',
+ 'site_url': 'https://www.maddyness.com/entreprise/lya-protect/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/10/09/grace-a-ynsect-une-nouvelle-semaine-avec-plus-de-300-millions-deuros-leves/>
+{'company_name': 'The Artist Academy',
+ 'site_url': 'https://www.maddyness.com/entreprise/the-artist-academy/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/10/09/grace-a-ynsect-une-nouvelle-semaine-avec-plus-de-300-millions-deuros-leves/>
+{'company_name': 'Kajou',
+ 'site_url': 'https://www.maddyness.com/entreprise/kajou/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/10/09/grace-a-ynsect-une-nouvelle-semaine-avec-plus-de-300-millions-deuros-leves/>
+{'company_name': 'Digital Essence',
+ 'site_url': 'https://www.maddyness.com/entreprise/digital-essence/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/10/09/grace-a-ynsect-une-nouvelle-semaine-avec-plus-de-300-millions-deuros-leves/>
+{'company_name': 'Ecosun',
+ 'site_url': 'https://www.maddyness.com/entreprise/ecosun/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Crawled (200) <GET https://www.maddyness.com/2020/10/30/43-millions-deuros-leves-cette-semaine-plus-de-522-millions-au-mois-doctobre/> (referer: http://www.maddyness.com/?s=MaddyMoney/)
+2020-11-28 00:18:54 [scrapy] DEBUG: Crawled (200) <GET https://www.maddyness.com/2020/11/06/28-millions-deuros-leves-cette-semaine-le-contrecoup-du-reconfinement/> (referer: http://www.maddyness.com/?s=MaddyMoney/)
+2020-11-28 00:18:54 [scrapy] DEBUG: Crawled (200) <GET https://www.maddyness.com/2020/11/13/maddy-money-13-novembre-2020-57-millions-deuros-leves-investissements/> (referer: http://www.maddyness.com/?s=MaddyMoney/)
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/10/23/maddymoney-77-millions-deuros-leves-cette-semaine/>
+{'company_name': 'SparingVision',
+ 'site_url': 'https://www.maddyness.com/entreprise/sparingvision/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/10/23/maddymoney-77-millions-deuros-leves-cette-semaine/>
+{'company_name': 'Prevision.io',
+ 'site_url': 'https://www.maddyness.com/entreprise/prevision-io/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/10/23/maddymoney-77-millions-deuros-leves-cette-semaine/>
+{'company_name': 'Cardiawave',
+ 'site_url': 'https://www.maddyness.com/entreprise/cardiawave/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/10/23/maddymoney-77-millions-deuros-leves-cette-semaine/>
+{'company_name': 'Dimpl',
+ 'site_url': 'https://www.maddyness.com/entreprise/dimpl/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/10/23/maddymoney-77-millions-deuros-leves-cette-semaine/>
+{'company_name': 'Beam',
+ 'site_url': 'https://www.maddyness.com/entreprise/beam-2/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/10/23/maddymoney-77-millions-deuros-leves-cette-semaine/>
+{'company_name': 'SurgAR',
+ 'site_url': 'https://www.maddyness.com/entreprise/surgar/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/10/23/maddymoney-77-millions-deuros-leves-cette-semaine/>
+{'company_name': 'Luxurynsight',
+ 'site_url': 'https://www.maddyness.com/entreprise/luxurynsight/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/10/23/maddymoney-77-millions-deuros-leves-cette-semaine/>
+{'company_name': 'Vinpai',
+ 'site_url': 'https://www.maddyness.com/entreprise/vinpai/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/10/23/maddymoney-77-millions-deuros-leves-cette-semaine/>
+{'company_name': 'TeamBrain',
+ 'site_url': 'https://www.maddyness.com/entreprise/teambrain/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Crawled (200) <GET https://www.maddyness.com/category/innovation/> (referer: https://www.maddyness.com/2020/11/27/105-millions-deuros-leves-cette-semaine-pres-de-358-millions-au-total-en-novembre/)
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/10/23/maddymoney-77-millions-deuros-leves-cette-semaine/>
+{'company_name': 'Les Agences de Papa',
+ 'site_url': 'https://www.maddyness.com/entreprise/les-agences-de-papa/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/10/23/maddymoney-77-millions-deuros-leves-cette-semaine/>
+{'company_name': 'EveryCheck',
+ 'site_url': 'https://www.maddyness.com/entreprise/everycheck/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/10/23/maddymoney-77-millions-deuros-leves-cette-semaine/>
+{'company_name': 'Ze Energy',
+ 'site_url': 'https://www.maddyness.com/entreprise/ze-energy/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/10/23/maddymoney-77-millions-deuros-leves-cette-semaine/>
+{'company_name': 'Deepsight',
+ 'site_url': 'https://www.maddyness.com/entreprise/deepsight/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/10/23/maddymoney-77-millions-deuros-leves-cette-semaine/>
+{'company_name': 'FamilEat',
+ 'site_url': 'https://www.maddyness.com/entreprise/famileat/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/10/23/maddymoney-77-millions-deuros-leves-cette-semaine/>
+{'company_name': 'NaturaMat',
+ 'site_url': 'https://www.maddyness.com/entreprise/naturamat/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/10/23/maddymoney-77-millions-deuros-leves-cette-semaine/>
+{'company_name': 'Biosyl',
+ 'site_url': 'https://www.maddyness.com/entreprise/biosyl/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/10/30/43-millions-deuros-leves-cette-semaine-plus-de-522-millions-au-mois-doctobre/>
+{'company_name': 'Odaseva Technologies',
+ 'site_url': 'https://www.maddyness.com/entreprise/odaseva-technologies/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/10/30/43-millions-deuros-leves-cette-semaine-plus-de-522-millions-au-mois-doctobre/>
+{'company_name': 'Vitibot',
+ 'site_url': 'https://www.maddyness.com/entreprise/vitibot/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/10/30/43-millions-deuros-leves-cette-semaine-plus-de-522-millions-au-mois-doctobre/>
+{'company_name': 'kShuttle',
+ 'site_url': 'https://www.maddyness.com/entreprise/kshuttle/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/10/30/43-millions-deuros-leves-cette-semaine-plus-de-522-millions-au-mois-doctobre/>
+{'company_name': 'Prométhée',
+ 'site_url': 'https://www.maddyness.com/entreprise/promethee/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/10/30/43-millions-deuros-leves-cette-semaine-plus-de-522-millions-au-mois-doctobre/>
+{'company_name': 'Pharmedigroup',
+ 'site_url': 'https://www.maddyness.com/entreprise/pharmedigroup/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/10/30/43-millions-deuros-leves-cette-semaine-plus-de-522-millions-au-mois-doctobre/>
+{'company_name': 'SurfactGreen',
+ 'site_url': 'https://www.maddyness.com/entreprise/surfactgreen/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/10/30/43-millions-deuros-leves-cette-semaine-plus-de-522-millions-au-mois-doctobre/>
+{'company_name': 'InterStis',
+ 'site_url': 'https://www.maddyness.com/entreprise/interstis/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/10/30/43-millions-deuros-leves-cette-semaine-plus-de-522-millions-au-mois-doctobre/>
+{'company_name': 'Syslor',
+ 'site_url': 'https://www.maddyness.com/entreprise/syslor/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/11/06/28-millions-deuros-leves-cette-semaine-le-contrecoup-du-reconfinement/>
+{'company_name': 'DeepReach',
+ 'site_url': 'https://www.maddyness.com/entreprise/deepreach/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/11/06/28-millions-deuros-leves-cette-semaine-le-contrecoup-du-reconfinement/>
+{'company_name': 'Score & Secure Payment',
+ 'site_url': 'https://www.maddyness.com/entreprise/score-secure-payment/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/11/06/28-millions-deuros-leves-cette-semaine-le-contrecoup-du-reconfinement/>
+{'company_name': 'BulldozAIR',
+ 'site_url': 'https://www.maddyness.com/entreprise/bulldozair-2/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/11/06/28-millions-deuros-leves-cette-semaine-le-contrecoup-du-reconfinement/>
+{'company_name': 'Supervan',
+ 'site_url': 'https://www.maddyness.com/entreprise/supervan-2/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/11/06/28-millions-deuros-leves-cette-semaine-le-contrecoup-du-reconfinement/>
+{'company_name': 'AgDataHub',
+ 'site_url': 'https://www.maddyness.com/entreprise/agdatahub/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/11/06/28-millions-deuros-leves-cette-semaine-le-contrecoup-du-reconfinement/>
+{'company_name': 'Moon',
+ 'site_url': 'https://www.maddyness.com/entreprise/moon/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/11/06/28-millions-deuros-leves-cette-semaine-le-contrecoup-du-reconfinement/>
+{'company_name': 'Sipad',
+ 'site_url': 'https://www.maddyness.com/entreprise/sipad/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/11/06/28-millions-deuros-leves-cette-semaine-le-contrecoup-du-reconfinement/>
+{'company_name': 'Biodiv-Wind',
+ 'site_url': 'https://www.maddyness.com/entreprise/biodiv-wind/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/11/06/28-millions-deuros-leves-cette-semaine-le-contrecoup-du-reconfinement/>
+{'company_name': 'Pixii',
+ 'site_url': 'https://www.maddyness.com/entreprise/pixii/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/11/06/28-millions-deuros-leves-cette-semaine-le-contrecoup-du-reconfinement/>
+{'company_name': 'GoSense',
+ 'site_url': 'https://www.maddyness.com/entreprise/gosense/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/11/06/28-millions-deuros-leves-cette-semaine-le-contrecoup-du-reconfinement/>
+{'company_name': 'Kerhea',
+ 'site_url': 'https://www.maddyness.com/entreprise/kerhea/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/11/13/maddy-money-13-novembre-2020-57-millions-deuros-leves-investissements/>
+{'company_name': 'Livestorm',
+ 'site_url': 'https://www.maddyness.com/entreprise/livestorm/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/11/13/maddy-money-13-novembre-2020-57-millions-deuros-leves-investissements/>
+{'company_name': 'Tehtris',
+ 'site_url': 'https://www.maddyness.com/entreprise/tehtris/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/11/13/maddy-money-13-novembre-2020-57-millions-deuros-leves-investissements/>
+{'company_name': 'Eloa',
+ 'site_url': 'https://www.maddyness.com/entreprise/eloa/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/11/13/maddy-money-13-novembre-2020-57-millions-deuros-leves-investissements/>
+{'company_name': 'Champerché',
+ 'site_url': 'https://www.maddyness.com/entreprise/champerche/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/11/13/maddy-money-13-novembre-2020-57-millions-deuros-leves-investissements/>
+{'company_name': 'Perspective(s)',
+ 'site_url': 'https://www.maddyness.com/entreprise/perspectives/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/11/13/maddy-money-13-novembre-2020-57-millions-deuros-leves-investissements/>
+{'company_name': 'QantEv',
+ 'site_url': 'https://www.maddyness.com/entreprise/qantev/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/11/13/maddy-money-13-novembre-2020-57-millions-deuros-leves-investissements/>
+{'company_name': 'Bsport solution',
+ 'site_url': 'https://www.maddyness.com/entreprise/bsport-solution/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/11/13/maddy-money-13-novembre-2020-57-millions-deuros-leves-investissements/>
+{'company_name': 'Edumoov',
+ 'site_url': 'https://www.maddyness.com/entreprise/edumoov/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/11/13/maddy-money-13-novembre-2020-57-millions-deuros-leves-investissements/>
+{'company_name': 'REI Habitat',
+ 'site_url': 'https://www.maddyness.com/entreprise/rei-habitat/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Crawled (200) <GET https://www.maddyness.com/2020/11/20/167-millions-deuros-leves-cette-semaine-avec-des-operations-xxl/> (referer: http://www.maddyness.com/?s=MaddyMoney/)
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/11/20/167-millions-deuros-leves-cette-semaine-avec-des-operations-xxl/>
+{'company_name': 'InnovaFeed',
+ 'site_url': 'https://www.maddyness.com/entreprise/innovafeed/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/11/20/167-millions-deuros-leves-cette-semaine-avec-des-operations-xxl/>
+{'company_name': 'Yubo',
+ 'site_url': 'https://www.maddyness.com/entreprise/yubo/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/11/20/167-millions-deuros-leves-cette-semaine-avec-des-operations-xxl/>
+{'company_name': 'EODev',
+ 'site_url': 'https://www.maddyness.com/entreprise/eodev/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/11/20/167-millions-deuros-leves-cette-semaine-avec-des-operations-xxl/>
+{'company_name': 'Preligens',
+ 'site_url': 'https://www.maddyness.com/entreprise/preligens-ex-earthcube/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/11/20/167-millions-deuros-leves-cette-semaine-avec-des-operations-xxl/>
+{'company_name': 'Lucine',
+ 'site_url': 'https://www.maddyness.com/entreprise/lucine/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/11/20/167-millions-deuros-leves-cette-semaine-avec-des-operations-xxl/>
+{'company_name': 'MyDataModels',
+ 'site_url': 'https://www.maddyness.com/entreprise/mydatamodels/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/11/20/167-millions-deuros-leves-cette-semaine-avec-des-operations-xxl/>
+{'company_name': 'AbolerIS Pharma',
+ 'site_url': 'https://www.maddyness.com/entreprise/aboleris-pharma/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/11/20/167-millions-deuros-leves-cette-semaine-avec-des-operations-xxl/>
+{'company_name': 'Mussella',
+ 'site_url': 'https://www.maddyness.com/entreprise/mussella/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/11/20/167-millions-deuros-leves-cette-semaine-avec-des-operations-xxl/>
+{'company_name': 'Nostrum Care',
+ 'site_url': 'https://www.maddyness.com/entreprise/nostrum-care/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Crawled (200) <GET http://www.maddyness.com/?s=MaddyMoney> (referer: http://www.maddyness.com/?s=MaddyMoney/)
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/11/20/167-millions-deuros-leves-cette-semaine-avec-des-operations-xxl/>
+{'company_name': 'Braintale',
+ 'site_url': 'https://www.maddyness.com/entreprise/braintale/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/11/20/167-millions-deuros-leves-cette-semaine-avec-des-operations-xxl/>
+{'company_name': 'MyCarSpot',
+ 'site_url': 'https://www.maddyness.com/entreprise/mycarspot/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/11/20/167-millions-deuros-leves-cette-semaine-avec-des-operations-xxl/>
+{'company_name': 'HopLunch',
+ 'site_url': 'https://www.maddyness.com/entreprise/hoplunch/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/11/20/167-millions-deuros-leves-cette-semaine-avec-des-operations-xxl/>
+{'company_name': 'VelyVelo',
+ 'site_url': 'https://www.maddyness.com/entreprise/velyvelo/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/11/20/167-millions-deuros-leves-cette-semaine-avec-des-operations-xxl/>
+{'company_name': 'Popwork',
+ 'site_url': 'https://www.maddyness.com/entreprise/popwork/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Scraped from <200 https://www.maddyness.com/2020/11/20/167-millions-deuros-leves-cette-semaine-avec-des-operations-xxl/>
+{'company_name': 'Déclique',
+ 'site_url': 'https://www.maddyness.com/entreprise/declique/'}
+2020-11-28 00:18:54 [scrapy] DEBUG: Crawled (200) <GET https://www.maddyness.com/?s=CorpoHebdo> (referer: https://www.maddyness.com/2020/11/27/105-millions-deuros-leves-cette-semaine-pres-de-358-millions-au-total-en-novembre/)
+2020-11-28 00:18:54 [scrapy] DEBUG: Crawled (200) <GET https://www.maddyness.com/2020/11/19/les-appels-a-projets-ess-ne-pas-manquer-en-cette-fin-dannee/> (referer: https://www.maddyness.com/2020/11/27/105-millions-deuros-leves-cette-semaine-pres-de-358-millions-au-total-en-novembre/)
+2020-11-28 00:18:54 [scrapy] DEBUG: Crawled (200) <GET https://www.maddyness.com/?s=RH> (referer: https://www.maddyness.com/2020/11/27/105-millions-deuros-leves-cette-semaine-pres-de-358-millions-au-total-en-novembre/)
+2020-11-28 00:18:54 [scrapy] DEBUG: Crawled (200) <GET https://www.maddyness.com/?s=mCal> (referer: https://www.maddyness.com/2020/11/27/105-millions-deuros-leves-cette-semaine-pres-de-358-millions-au-total-en-novembre/)
+2020-11-28 00:18:54 [scrapy] DEBUG: Crawled (200) <GET https://www.maddyness.com/2020/11/24/marie-ekeland-lance-le-fonds-2050/> (referer: https://www.maddyness.com/2020/11/27/105-millions-deuros-leves-cette-semaine-pres-de-358-millions-au-total-en-novembre/)
+2020-11-28 00:18:54 [scrapy] DEBUG: Crawled (200) <GET https://www.maddyness.com/2020/11/17/swile-rachete-briq-engagement-salarie/> (referer: https://www.maddyness.com/2020/11/27/105-millions-deuros-leves-cette-semaine-pres-de-358-millions-au-total-en-novembre/)
+2020-11-28 00:18:55 [scrapy] DEBUG: Crawled (200) <GET https://www.maddyness.com/?s=QFLF> (referer: https://www.maddyness.com/2020/11/27/105-millions-deuros-leves-cette-semaine-pres-de-358-millions-au-total-en-novembre/)
+2020-11-28 00:18:55 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 10065,
+ 'downloader/request_count': 29,
+ 'downloader/request_method_count/GET': 29,
+ 'downloader/response_bytes': 437309,
+ 'downloader/response_count': 29,
+ 'downloader/response_status_count/200': 29,
+ 'dupefilter/filtered': 1080,
+ 'elapsed_time_seconds': 2.597796,
+ 'finish_reason': 'closespider_itemcount',
+ 'finish_time': datetime.datetime(2020, 11, 28, 0, 18, 55, 289915),
+ 'item_scraped_count': 219,
+ 'log_count/DEBUG': 249,
+ 'log_count/INFO': 7,
+ 'request_depth_max': 3,
+ 'response_received_count': 29,
+ 'robotstxt/request_count': 1,
+ 'robotstxt/response_count': 1,
+ 'robotstxt/response_status_count/200': 1,
+ 'scheduler/dequeued': 28,
+ 'scheduler/dequeued/memory': 28,
+ 'scheduler/enqueued': 117,
+ 'scheduler/enqueued/memory': 117,
+ 'start_time': datetime.datetime(2020, 11, 28, 0, 18, 52, 692119)}
+2020-11-28 00:18:55 [scrapy] INFO: Spider closed (closespider_itemcount)

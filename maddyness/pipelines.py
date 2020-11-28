@@ -5,10 +5,10 @@
 
 
 # useful for handling different item types with a single interface
-from itemadapter import ItemAdapter
-import logging
-import gspread
-import sqlite3
+# from itemadapter import ItemAdapter
+# import logging
+# import gspread
+# import sqlite3
 
 
 # class MaddynessPipeline:
@@ -27,31 +27,31 @@ import sqlite3
 #         sh.append_rows(item)
 #         return item
 
-class SQLitePipeline(object):
+# class SQLitePipeline(object):
 
-    def open_spider(self, spider):
-        self.connection = sqlite3.connect("growthagency.db")
-        self.c = self.connection.cursor()
-        try:
-            self.c.execute('''
-                CREATE TABLE article(
-                    company_name TEXT,
-                    site_url TEXT
-                )
-            ''')
-            self.connection.commit()
-        except sqlite3.OperationalError:
-            pass
+#     def open_spider(self, spider):
+#         self.connection = sqlite3.connect("growthagency.db")
+#         self.c = self.connection.cursor()
+#         try:
+#             self.c.execute('''
+#                 CREATE TABLE article(
+#                     company_name TEXT,
+#                     site_url TEXT
+#                 )
+#             ''')
+#             self.connection.commit()
+#         except sqlite3.OperationalError:
+#             pass
 
-    def close_spider(self, spider):
-        self.connection.close()
+#     def close_spider(self, spider):
+#         self.connection.close()
 
-    def process_item(self, item, spider):
-        self.c.execute('''
-            INSERT INTO article (company_name, site_url) VALUES (?,?)
-        ''', (
-            item.get('company_name'),
-            item.get('site_url')
-        ))
-        self.connection.commit()
-        return item
+#     def process_item(self, item, spider):
+#         self.c.execute('''
+#             INSERT INTO article (company_name, site_url) VALUES (?,?)
+#         ''', (
+#             item.get('company_name'),
+#             item.get('site_url')
+#         ))
+#         self.connection.commit()
+#         return item
